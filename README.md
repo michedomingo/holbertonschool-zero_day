@@ -10,26 +10,26 @@ ___
 <a name="vagrant2"></a>
 ## [0x00. Vagrant](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant)
 
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x00-vagrant/#vagrant1)**.
+🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant/#vagrant1)**.
 
 - [ ] What is a zero-day
 - [ ] What is a virtual machine
 - [ ] What is Vagrant
+- [ ] How to use VMs with Vagrant
 - [ ] Who wrote Vagrant
 - [ ] What is Ubuntu
 - [ ] What does “Ubuntu” mean
-- [ ] How to use VMs with Vagrant
 - [ ] What does the command uname do
 - [ ] What is source code management
 - [ ] What is Git
 - [ ] What is GitHub
 - [ ] What is the difference between Git and GitHub
 - [ ] How to create a repository
-- [ ] What is a README
-- [ ] How to write good READMEs
 - [ ] How to commit
 - [ ] How to write helpful commit messages
 - [ ] How to push code
+- [ ] What is a README
+- [ ] How to write good READMEs
 ____
 <a name="emacs2"></a>
 ## [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x01-emacs)
