@@ -32,7 +32,7 @@ ___
 - [ ] How to push code
 ____
 <a name="emacs2"></a>
-## [0x01. Emacs](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x01-emacs)
+## [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x01-emacs)
 
 🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x01-emacs/#emacs1)**.
 
@@ -49,7 +49,7 @@ ____
 - [ ] How to quit Emacs
 ____
 <a name="vi2"></a>
-## [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/0x02-vi)
+## [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x02-vi)
 
 🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x02-vi/#vi1)**.
 
@@ -64,7 +64,7 @@ ____
 - [ ] How to edit text
 ____
 <a name="git2"></a>
-## [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/0x03-git)
+## [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x03-git)
 
 🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x03-git/#git1)**.
 
