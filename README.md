@@ -2,16 +2,15 @@
 > 0-Day (Week 0)
 
 ### Projects
-- [0x00. Vagrant](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/#vagrant2)
-- [0x01. Emacs](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/#emacs2)
-- [0x02. vi](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/#vi2)
-- [0x03. Git](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/#git2)
+- [0x00. Vagrant](https://github.com/michedomingo/holbertonschool-zero_day/#vagrant2)
+- [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/#emacs2)
+- [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/#vi2)
+- [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/#git2)
 ___
 <a name="vagrant2"></a>
-## [0x00. Vagrant](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x00-vagrant)
+## [0x00. Vagrant](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant)
 
-### Learning Objectives
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x00-vagrant/#vagrant1)**.
+🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x00-vagrant/#vagrant1)**.
 
 - [ ] What is a zero-day
 - [ ] What is a virtual machine
@@ -35,8 +34,7 @@ ____
 <a name="emacs2"></a>
 ## [0x01. Emacs](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x01-emacs)
 
-### Learning Objectives
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x01-emacs/#emacs1)**.
+🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x01-emacs/#emacs1)**.
 
 - [ ] What is Emacs
 - [ ] Who is Richard Stallman
@@ -51,10 +49,9 @@ ____
 - [ ] How to quit Emacs
 ____
 <a name="vi2"></a>
-## [0x02. vi](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x02-vi)
+## [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/0x02-vi)
 
-### Learning Objectives
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x02-vi/#vi1)**.
+🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x02-vi/#vi1)**.
 
 - [ ] What is vi
 - [ ] Who is Bill Joy
@@ -67,10 +64,9 @@ ____
 - [ ] How to edit text
 ____
 <a name="git2"></a>
-## [0x03. Git](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x03-git)
+## [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/0x03-git)
 
-### Learning Objectives
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/c11_TestProjects/tree/master/holbertonschool-zero_day/0x03-git/#git1)**.
+🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x03-git/#git1)**.
 
 - [ ] What is Git
 - [ ] What is GitHub
