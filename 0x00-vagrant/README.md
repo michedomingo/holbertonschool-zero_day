@@ -34,10 +34,10 @@ ___
 
 ### 0. Create and setup your Git and Github account
 - Create your first Github repository
-- File: [README.md](https://github.com/michedomingo/c11_TestProjects/blob/master/holbertonschool-zero_day/0x00-vagrant/README.md)
+- File: [README.md](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x00-vagrant/README.md)
 
 ### 1. Hello Ubuntu
 - What does the command uname print when you run it without any option?
 - Type your answer into a file
-- File: [0-hello_ubuntu](https://github.com/michedomingo/c11_TestProjects/blob/master/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu)
+- File: [0-hello_ubuntu](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x00-vagrant/0-hello_ubuntu)
 ___
