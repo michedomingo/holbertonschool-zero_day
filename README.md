@@ -34,7 +34,7 @@ ____
 <a name="emacs2"></a>
 ## [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x01-emacs)
 
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x01-emacs/#emacs1)**.
+🤓 Learning Objectives
 
 - [ ] What is Emacs
 - [ ] Who is Richard Stallman
@@ -51,7 +51,7 @@ ____
 <a name="vi2"></a>
 ## [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x02-vi)
 
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x02-vi/#vi1)**.
+🤓 Learning Objectives
 
 - [ ] What is vi
 - [ ] Who is Bill Joy
@@ -66,7 +66,7 @@ ____
 <a name="git2"></a>
 ## [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x03-git)
 
-🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/0x03-git/#git1)**.
+🤓 Learning Objectives
 
 - [ ] What is Git
 - [ ] What is GitHub
