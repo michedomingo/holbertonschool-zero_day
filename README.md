@@ -11,7 +11,6 @@ ___
 # [0x00. Vagrant](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant)
 
 ### 🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant/#vagrant1)**.
-
 - [ ] What is a zero-day
 - [ ] What is a virtual machine
 - [ ] What is Vagrant
@@ -35,7 +34,6 @@ ____
 # [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x01-emacs)
 
 ### 🤓 Learning Objectives
-
 - [ ] What is Emacs
 - [ ] Who is Richard Stallman
 - [ ] How to open and save files
@@ -52,7 +50,6 @@ ____
 # [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x02-vi)
 
 ### 🤓 Learning Objectives
-
 - [ ] What is vi
 - [ ] Who is Bill Joy
 - [ ] How to start and exit vi
@@ -67,7 +64,6 @@ ____
 # [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x03-git)
 
 ### 🤓 Learning Objectives
-
 - [ ] What is Git
 - [ ] What is GitHub
 - [ ] What is the difference between Git and GitHub

@@ -6,8 +6,8 @@
 - [Tasks](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant/#tasks)
 ___
 <a name="vagrant1"></a>
-## Learning Objectives
 
+### 🤓 Learning Objectives
 Objective | Reference
 | --- | --- |
 What is a zero-day | <br><p>https://en.wikipedia.org/wiki/Zero-day_(computing)<br>https://youtu.be/GA8GEfgFBU8?t=7</p>
@@ -30,14 +30,12 @@ What is a README | <br><p>https://help.github.com/en/github/creating-cloning-and
 How to write good READMEs | <br><p>https://github.com/noffle/art-of-readme<br>https://github.com/matiassingers/awesome-readme</p>
 ___
 <a name="tasks"></a>
-## Tasks
+### Tasks
 
-### 0. Create and setup your Git and Github account
+#### File: [README.md](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x00-vagrant/README.md)
 - Create your first Github repository
-- File: [README.md](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x00-vagrant/README.md)
 
-### 1. Hello Ubuntu
+#### File: [0-hello_ubuntu](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x00-vagrant/0-hello_ubuntu)
 - What does the command uname print when you run it without any option?
 - Type your answer into a file
-- File: [0-hello_ubuntu](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x00-vagrant/0-hello_ubuntu)
 ___
