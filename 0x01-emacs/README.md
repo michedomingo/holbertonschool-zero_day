@@ -51,3 +51,5 @@ ___
 #### File: [101-doctor](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x01-emacs/101-doctor)
 - What is the command to talk to your doctor?
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

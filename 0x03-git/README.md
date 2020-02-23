@@ -46,3 +46,5 @@ ___
 #### File: [.gitignore](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x03-git/.gitignore)
 - Create a .gitignore file and define a rule to never push ~ files
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

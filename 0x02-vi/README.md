@@ -49,3 +49,5 @@ ___
 #### File: [101-delete_line](https://github.com/michedomingo/holbertonschool-zero_day/blob/master/0x02-vi/101-delete_line)
 - What is the command to delete the current and previous line at the same time?
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

@@ -39,3 +39,5 @@ ___
 - What does the command uname print when you run it without any option?
 - Type your answer into a file
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
