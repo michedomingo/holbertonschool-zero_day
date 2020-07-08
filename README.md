@@ -1,84 +1,17 @@
-# Holberton School, Foundations Curiculum
-> 0-Day (Week 0)
+<p align="center">
+  <img src="https://rails-assets.holbertonschool.com/assets/logos/holberton-school-logo-1-b00731b51b0bc1dffd6e1f4cbd0be58ab72d6cc9975a4e1957d8b6f3f4850936.png">
+</p>
 
-### Projects
-- [0x00. Vagrant](https://github.com/michedomingo/holbertonschool-zero_day/#vagrant2)
-- [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/#emacs2)
-- [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/#vi2)
-- [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/#git2)
-___
-<a name="vagrant2"></a>
-# [0x00. Vagrant](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant)
+# Holberton School, 0-Day (Week 0)
+Holberton teaches full-stack software engineering with a project-based approach. The first year curriculumn covers the foundations of software engineering, including low-level programming, DevOps, and high-level modern languages.
 
-### 🤓 Resources and tasks for the following topics are listed - **[here](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x00-vagrant/#vagrant1)**.
-- [ ] What is a zero-day
-- [ ] What is a virtual machine
-- [ ] What is Vagrant
-- [ ] How to use VMs with Vagrant
-- [ ] Who wrote Vagrant
-- [ ] What is Ubuntu
-- [ ] What does “Ubuntu” mean
-- [ ] What does the command uname do
-- [ ] What is source code management
-- [ ] What is Git
-- [ ] What is GitHub
-- [ ] What is the difference between Git and GitHub
-- [ ] How to create a repository
-- [ ] How to commit
-- [ ] How to write helpful commit messages
-- [ ] How to push code
-- [ ] What is a README
-- [ ] How to write good READMEs
-____
-<a name="emacs2"></a>
-# [0x01. Emacs](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x01-emacs)
+| Projects | Learning Objectives |
+| --- | --- |
+| [0x00-vagrant](./0x00-vagrant) | <p><details><summary>Toggle 🤓</summary><br> - What is a zero-day<br> - What is a virtual machine<br> - What is Vagrant<br> - How to use VMs with Vagrant<br> - Who wrote Vagrant<br> - What is Ubuntu<br> - What does “Ubuntu” mean<br> - What does the command uname do<br> - What is source code management<br> - What is Git<br> - What is GitHub<br> - What is the difference between Git and GitHub<br> - How to create a repository<br> - How to commit<br> - How to write helpful commit messages<br> - How to push code<br> - What is a README<br> - How to write good READMEs</details> </p> |
+| [0x01-emacs](./0x01-emacs) | <p><details><summary>Toggle 🤓</summary><br> - What is Emacs<br> - Who is Richard Stallman<br> - How to open and save files<br> - How to cut and paste lines and regions<br> - How to search forward and backward<br> - How to invoke commands by name<br> - How to undo<br> - What is a buffer and how to switch from one to the other<br> - How to use the mark and the point to set the region<br> - How to cancel half-entered commands<br> - How to quit Emacs</details> </p> |
+| [0x02-vi](./0x02-vi) | <p><details><summary>Toggle 🤓</summary><br> - What is vi<br> - Who is Bill Joy<br> - How to start and exit vi<br> - How to quit vi<br> - How to search forward and backward<br> - What are the command and insert modes, and how to switch from one to the other<br> - How to cut and paste lines<br> - How to undo<br> - How to edit text</details> </p> |
+| [0x03-git](./0x03-git) | <p><details><summary>Toggle 🤓</summary>- [ ] What is Git<br> - What is GitHub<br> - What is the difference between Git and GitHub<br> - What is source code management<br> - How to create a repository<br> - What is a README<br> - How to write good READMEs<br> - How to commit<br> - How to write helpful commit messages<br> - How to push code<br> - How to pull updates<br> - How to create a branch<br> - How to merge branches<br> - How to work as collaborators on a project<br> - Which files should and which files should not appear in your repo</details> </p> |
 
-### 🤓 Learning Objectives
-- [ ] What is Emacs
-- [ ] Who is Richard Stallman
-- [ ] How to open and save files
-- [ ] How to cut and paste lines and regions
-- [ ] How to search forward and backward
-- [ ] How to invoke commands by name
-- [ ] How to undo
-- [ ] What is a buffer and how to switch from one to the other
-- [ ] How to use the mark and the point to set the region
-- [ ] How to cancel half-entered commands
-- [ ] How to quit Emacs
-____
-<a name="vi2"></a>
-# [0x02. vi](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x02-vi)
-
-### 🤓 Learning Objectives
-- [ ] What is vi
-- [ ] Who is Bill Joy
-- [ ] How to start and exit vi
-- [ ] How to quit vi
-- [ ] How to search forward and backward
-- [ ] What are the command and insert modes, and how to switch from one to the other
-- [ ] How to cut and paste lines
-- [ ] How to undo
-- [ ] How to edit text
-____
-<a name="git2"></a>
-# [0x03. Git](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x03-git)
-
-### 🤓 Learning Objectives
-- [ ] What is Git
-- [ ] What is GitHub
-- [ ] What is the difference between Git and GitHub
-- [ ] What is source code management
-- [ ] How to create a repository
-- [ ] What is a README
-- [ ] How to write good READMEs
-- [ ] How to commit
-- [ ] How to write helpful commit messages
-- [ ] How to push code
-- [ ] How to pull updates
-- [ ] How to create a branch
-- [ ] How to merge branches
-- [ ] How to work as collaborators on a project
-- [ ] Which files should and which files should not appear in your repo
 ___
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
