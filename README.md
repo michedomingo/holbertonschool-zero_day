@@ -5,6 +5,14 @@
 # Holberton School, 0-Day (Week 0)
 Holberton teaches full-stack software engineering with a project-based approach. The first year curriculumn covers the foundations of software engineering, including low-level programming, DevOps, and high-level modern languages.
 
+This is the first repository for year 1 foundational projects at Holberton School.
+
+Areas of focus:
+* Vagrant
+* Emacs
+* Vi
+* Git 
+
 | Projects | Learning Objectives |
 | --- | --- |
 | [0x00-vagrant](./0x00-vagrant) | <p><details><summary>Toggle 🤓</summary><br> - What is a zero-day<br> - What is a virtual machine<br> - What is Vagrant<br> - How to use VMs with Vagrant<br> - Who wrote Vagrant<br> - What is Ubuntu<br> - What does “Ubuntu” mean<br> - What does the command uname do<br> - What is source code management<br> - What is Git<br> - What is GitHub<br> - What is the difference between Git and GitHub<br> - How to create a repository<br> - How to commit<br> - How to write helpful commit messages<br> - How to push code<br> - What is a README<br> - How to write good READMEs</details> </p> |
